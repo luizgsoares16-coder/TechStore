@@ -1,0 +1,42 @@
+.tudo {
+
+}
+
+.cabecalho {
+    background-color: hsl(0, 0%, 69%);
+    padding: 5px 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.nos_prod {
+    text-align: center;
+}
+
+.quad_fund_imag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d6d6d6;
+    gap: 150px;
+    padding: 25px;
+}
+
+.botoes {
+    background-color: #c6c6c6;
+}
+
+.fundo_email {
+    background-color: #707070;
+    text-align: center;
+}
+
+.email {
+    padding: 3px 35px;
+}
+
+.inscrever {
+    padding: 3px 20px;
+}
